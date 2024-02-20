@@ -1,0 +1,9 @@
+{
+    "apiVersion": 3,
+    "title": "Offer block columns x3",
+    "name": "plugin-blocks/block-4",
+    "category": "layout",
+    "icon": "layout",
+    "editorScript": "file:./block.js",
+    "editorStyle": "file:./editor.css"
+}

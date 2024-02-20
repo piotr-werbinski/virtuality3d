@@ -1,0 +1,9 @@
+{
+    "apiVersion": 3,
+    "title": "Pros block",
+    "name": "plugin-blocks/block-1",
+    "category": "layout",
+    "icon": "thumbs-up",
+    "editorScript": "file:./block.js",
+    "editorStyle": "file:./editor.css"
+}
